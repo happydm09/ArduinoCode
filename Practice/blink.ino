@@ -8,3 +8,6 @@ void loop() {
   digitalWrite(8, LOW);
   delay(1000);
 }
+
+// Blinking LED code
+//깜박이는 LED 코드
